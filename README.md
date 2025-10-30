@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Moses
+### Windows / Cloud / VMware Administrator | DevOps Enthusiast | Automation Engineer
 
-<!--
-**MKappera/MKappera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me**
+- 4+ years of experience managing Windows Servers, Active Directory, and VMware ESXi environments.
+- Skilled in Azure, AWS, and cloud migration tasks.
+- Passionate about automating repetitive work using PowerShell, Python, and Ansible.
+- Interested in CI/CD, Infrastructure as Code, and containerization with Docker.
 
-Here are some ideas to get you started:
+⚙️ **Core Skills**
+- **Windows & VMware:** AD, GPO, DNS, DHCP, ESXi, vCenter, VM templates, snapshots.
+- **Cloud:** Azure Resource Manager, EC2, S3, IAM, load balancers, storage accounts.
+- **Automation:** PowerShell scripting, Bash, Ansible, Terraform basics.
+- **DevOps & Containers:** Jenkins, GitHub Actions, Docker, CI/CD setup.
+- **Monitoring & Security:** Event Viewer, Azure Monitor, CloudWatch, patching, RBAC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Current Focus**
+- Learning **Terraform** and **Kubernetes basics**.
+- Building **CI/CD pipelines** for Windows-based deployments.
+- Documenting **VMware to Azure migration labs**.
+
+  
+📫 **Connect With Me**
+[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bp2ptaCVASf2ZB3zo8oKeXg%3D%3D) • [Email](mailto:moseskappera@gmail.com)
