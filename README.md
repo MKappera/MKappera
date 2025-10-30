@@ -21,4 +21,4 @@
 
   
 📫 **Connect With Me**
-[LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bp2ptaCVASf2ZB3zo8oKeXg%3D%3D) • [Email](mailto:moseskappera@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/moseskappera/) • [Email](mailto:moseskappera@gmail.com)
